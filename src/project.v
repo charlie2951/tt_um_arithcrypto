@@ -2,6 +2,7 @@
  * Copyright (c) 2024 Your Name
  * SPDX-License-Identifier: Apache-2.0
  */
+//demo of arithmetic crypto core
 
 `default_nettype none
 
