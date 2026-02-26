@@ -32,7 +32,7 @@ module tt_um_arythcrypto (
         .I1(A),
         .I2(B),
         .CLK(clk),
-        .Reset(rst_n),
+        .Reset(!rst_n),
         .Control(op),
         .OUTPUT(uio_out)
 );
